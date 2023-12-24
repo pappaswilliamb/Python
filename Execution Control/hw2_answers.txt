@@ -1,0 +1,6 @@
+Blake Pappas
+answer4 = 1001
+answer5 = 2002
+answer6 = 81
+answer7 = 64
+The Python assignment is done.
